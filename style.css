@@ -1,8 +1,10 @@
+body{
+    background: linear-gradient(to top,rgb(5, 126,135) 20%,rgb(23, 26,33)50%);
+}
 .principal{
     display: grid;
     grid-template-columns: repeat(5,1fr);
     grid-template-rows: repeat(2,1fr);
-    background-color: rgb(5, 126,135);
     height: 345px;
     width: 100%;
 
