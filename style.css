@@ -28,7 +28,17 @@ body{
     grid-column: 4/6;
     grid-row: 1/5;
     margin-left: 20px;
-    background-color: antiquewhite;
+}
+.flexi{
+    margin:1%;
+}
+.foto{
+    position: absolute;
+    top: 30px;
+    border-radius: 50%;
+    left: 350px;
+    height: 100px;
+    width: 100px;
 }
 .sub_flex2{
     width: 100%;
